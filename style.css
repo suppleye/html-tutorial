@@ -28,6 +28,15 @@ h1{
     font-size: 72px;
 }
 
+.subheader{
+    font-size: 30px;
+}
+
+button{
+    background-color: blue;
+    color: white;
+}
+
 a{
     color: black;
     font-size: 24px;
